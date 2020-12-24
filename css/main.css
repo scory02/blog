@@ -2010,7 +2010,7 @@ a:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0a9cb4;
+  background: #39d752;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3211,6 +3211,13 @@ hr {
 }
 .post-toc ol a {
   color: #000;
+}
+body {
+  background: url("/images/bk.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 .post-body {
   text-align: justify;
