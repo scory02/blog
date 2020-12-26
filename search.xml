@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2020/12/26/hello-world/"/>
+      <url>2020/12/26/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>自我介绍</title>
+      <link href="2018/09/30/one/"/>
+      <url>2018/09/30/one/</url>
+      
+        <content type="html"><![CDATA[<h2 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h2><h3 id="来自哪里"><a href="#来自哪里" class="headerlink" title="来自哪里"></a>来自哪里</h3><pre class="line-numbers language-text" data-language="text"><code class="language-text">我来自陕西商洛 就读于渭南职业技术学院——计算机应用技术专业<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="性格"><a href="#性格" class="headerlink" title="性格"></a>性格</h3><pre class="line-numbers language-text" data-language="text"><code class="language-text">理想稳重，善于沟通，待人亲和，自控力强<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="专业上"><a href="#专业上" class="headerlink" title="专业上"></a>专业上</h3><pre class="line-numbers language-text" data-language="text"><code class="language-text">熟练掌握html高级设计/响应式布局-css-javascript asp.net jquery,Ajax,vue等前端主流语言与框架c#可视化/面向对象编程 python编程语言sql,mysql主流数据库 和 sql server高级查询 T-sql编程和主流应用开发工具<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="在校期间"><a href="#在校期间" class="headerlink" title="在校期间"></a>在校期间</h3><pre class="line-numbers language-text" data-language="text"><code class="language-text">参加了王者荣耀/cf官方皮肤设计大赛 华为小米手机主题设计 卓越项目大赛 全国大学生创新创业大赛 全国大学生信息素养大赛<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="社会实践方面"><a href="#社会实践方面" class="headerlink" title="社会实践方面"></a>社会实践方面</h3><pre class="line-numbers language-text" data-language="text"><code class="language-text">做过 支付宝/京东支付的线上线下推广 小米的产品推广与销售 西安古渡驿餐饮系统的ui设计 目前运营着scory个人博客<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> myself </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博主 myself </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
