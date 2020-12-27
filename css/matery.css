@@ -241,9 +241,6 @@ mark {
 }
 
 .bg-color {
-    @-webkit-keyframes rainbow {
-   /* 动态切换背景颜色. */
-    }
     # background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
 }
 
